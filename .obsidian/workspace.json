@@ -11,14 +11,10 @@
             "id": "85db4f4eee10665d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring Framework, Spring Boot/2024.10.15 Spring Framework.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2024.10.15 Spring Framework"
+              "title": "새 탭"
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring Framework, Spring Boot/2024.10.15 Spring Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2024.10.15 Spring Framework의 백링크"
+              "title": "백링크"
             }
           },
           {
@@ -112,12 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring Framework, Spring Boot/2024.10.15 Spring Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2024.10.15 Spring Framework의 나가는 링크"
+              "title": "나가는 링크"
             }
           },
           {
@@ -138,11 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spring Framework, Spring Boot/2024.10.15 Spring Framework.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "2024.10.15 Spring Framework 개요"
+              "title": "개요"
             }
           }
         ]
@@ -162,42 +154,43 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "149c3c6f714cd55d",
+  "active": "85db4f4eee10665d",
   "lastOpenFiles": [
-    "Web Development HTML, CSS, JS, JSP/2024.10.01 Dynamic Web Project를 Git에 공유.md",
-    "Spring Framework, Spring Boot",
-    "새 폴더",
-    "Spring Framework, Spring Boot/2024.10.15 Spring Framework.md",
-    "Web Development HTML, CSS, JS, JSP/2024.09.30 OpenAPI, JSON to POJO, Crawling.md",
-    "Web Development HTML, CSS, JS, JSP/2024.09.24 JSON으로 CRUD 구현(create, update), AJAX, Fetch, CORSfilter.md",
-    "Web Development HTML, CSS, JS, JSP/2024.09.03 HTML, CSS, JavaScript.md",
-    "Web Development HTML, CSS, JS, JSP/open.url",
-    "Web Development HTML, CSS, JS, JSP/2024.09.11 jsp include, jsp forward, http의 stateless, cookie, session.md",
-    "Web Development HTML, CSS, JS, JSP",
-    "Web Development HTML, CSS, JS, JSP/2024.09.10 Dynamic Web Project, Scriptlet, .jsp파일.md",
-    "Web Development HTML, CSS, JS",
-    "Web Development",
-    "Web Development HTML, CSS, JS, JSP/2024.09.27 API, GPT, 비동기 통신 JavaScript(Fetch).md",
-    "Web Development HTML, CSS, JS, JSP/2024.09.26 Mybatis로 interface mapper 구현, EncodingFilter, Fetch로 Insert구현, file download, upload link, tomcat exception.md",
-    "Web Development HTML, CSS, JS, JSP/2024.09.25 Java Faker, Context Root, html 에 외부 파일 적용, API Servlet.md",
-    "Web Development HTML, CSS, JS, JSP/2024.09.23 Jackson, JSON으로 CRUD 구현.md",
-    "Web Development HTML, CSS, JS, JSP/2024.09.20 servlet활용해서 CRUD 구현, Filter.md",
-    "Web Development HTML, CSS, JS, JSP/2024.09.19 Maven Project, Logger, Mybatis, PRG패턴.md",
-    "Web Development HTML, CSS, JS, JSP/2024.09.15 Postman.md",
-    "Web Development HTML, CSS, JS, JSP/2024.09.14 SendRedirect, Query parameter.md",
-    "Web Development HTML, CSS, JS, JSP/2024.09.13 Servlet, InitParameter, BasicDataSource.md",
-    "Web Development HTML, CSS, JS, JSP/2024.09.12 EL, JSTL, MVC, Servlet.md",
-    "Web Development HTML, CSS, JS, JSP/2024.09.09 DOM, forEach, template태그, Date, Timer, Storage, Dialog.md",
-    "Web Development HTML, CSS, JS, JSP/2024.09.06 JavaScript의 Object, Array, Destructuring.md",
-    "Web Development HTML, CSS, JS, JSP/2024.09.05 HTTP Request, Java Script의 특징, Callback함수, 자바스크립트function.md",
-    "Web Development HTML, CSS, JS, JSP/2024.09.04 Semantic Tag, Form Tag, Input Tag.md",
-    "SQL/2024.08.07 MySQL.md",
-    "SQL/2024.08.21 Regular Expression.md",
-    "SQL",
-    "SQL/2024.08.19 excuteBatch(), PreparedStatement, StringJoiner.md",
-    "SQL/2024.08.20 base64, 다른 사람의 db 접속하기.md",
-    "GUI Java Swing",
-    "GUI",
-    "Java"
+    "7. Team project/LottoProgram/2024.08.06 LottoProgram 마지막 날.md",
+    "7. Team project/LottoProgram/2024.08.02 LottoProgram 5.md",
+    "7. Team project/LottoProgram/2024.08.01 LottoProgram 4.md",
+    "7. Team project/LottoProgram/2024.07.31 LottoProgram 3.md",
+    "7. Team project/LottoProgram/2024.07.30 LottoProgram 2.md",
+    "7. Team project/LottoProgram/2024.07.29 LottoProgram 1.md",
+    "7. Team project/Subking Project/2024.10.14 subking project 6 final.md",
+    "7. Team project/Subking Project/2024.10.11 subking project 5.md",
+    "7. Team project/Subking Project/2024.10.10 subking project 5.md",
+    "7. Team project/Subking Project/2024.10.08 subking project 4.md",
+    "7. Team project/Subking Project/2024.10.04 subking project 2.md",
+    "7. Team project/Subking Project/2024.10.07 subking project 3.md",
+    "7. Team project/Subking Project/2024.10.02 subking project 1.md",
+    "7. Team project/StockSimulation/2024.09.02 TeamProject StockSimulation 7 발표날.md",
+    "7. Team project/StockSimulation/2024.08.30 TeamProject StockSimulation 6.md",
+    "7. Team project/StockSimulation/2024.08.29 TeamProject StockSimulation 5.md",
+    "7. Team project/StockSimulation/2024.08.27 TeamProject StockSimulation 3.md",
+    "7. Team project/StockSimulation/2024.08.26 TeamProject StockSimulation 2.md",
+    "7. Team project/StockSimulation/2024.08.28 TeamProject StockSimulation 4.md",
+    "7. Team project/StockSimulation/2024.08.22 TeamProject StockSimulation 1.md",
+    "7. Team project/LottoProgram",
+    "7. Team project/Subking Project",
+    "7. Team project/StockSimulation",
+    "7. Team project",
+    "6. GitHub/2024.10.23 Spring Boot Git, Jstl, MySql, Logger, Test.md",
+    "6. GitHub/2024.10.01 Dynamic Web Project를 Git에 공유.md",
+    "6. GitHub/2024.07.01 유스케이스 다이어그램(Use Case Diagram), Eclipse java Working Set 설정(프로젝트들을 정리하는 법), GitHub flow(깃허브 브랜치 관리 전략 중 하나).md",
+    "6. GitHub/2024.08.02 Github Conflict 해결, LottoProgram 5.md",
+    "6. GitHub/2024.07.26 Project에서 Github 활용하기.md",
+    "6. GitHub/2024.06.26 깃허브(Github) repositories 협업하기2, instanceof, super();, switch.md",
+    "6. GitHub",
+    "5. Spring Framework, Spring Boot",
+    "4. Web Development HTML, CSS, JS, JSP",
+    "3. SQL",
+    "2. GUI Java Swing",
+    "1. Java"
   ]
 }
