@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "7ad7a11b55d52981",
+    "type": "split",
+    "children": [
+      {
+        "id": "6828bc000e7f2d50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85db4f4eee10665d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring Framework, Spring Boot/2024.10.15 Spring Framework.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024.10.15 Spring Framework"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f1697cd4180e22db",
+    "type": "split",
+    "children": [
+      {
+        "id": "19bf4f8e51298a92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "149c3c6f714cd55d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "a27ee88bfb8a43ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "jsp",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "661407b93e541a5d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fbe2deb9e6daf821",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae5887e61afc8837",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb99aecf758e1110",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spring Framework, Spring Boot/2024.10.15 Spring Framework.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2024.10.15 Spring Framework의 백링크"
+            }
+          },
+          {
+            "id": "3c8adfda26c3f450",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Spring Framework, Spring Boot/2024.10.15 Spring Framework.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2024.10.15 Spring Framework의 나가는 링크"
+            }
+          },
+          {
+            "id": "ee1bd757a631d2a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "127fbae69d7cc1b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spring Framework, Spring Boot/2024.10.15 Spring Framework.md"
+              },
+              "icon": "lucide-list",
+              "title": "2024.10.15 Spring Framework 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "149c3c6f714cd55d",
+  "lastOpenFiles": [
+    "Web Development HTML, CSS, JS, JSP/2024.10.01 Dynamic Web Project를 Git에 공유.md",
+    "Spring Framework, Spring Boot",
+    "새 폴더",
+    "Spring Framework, Spring Boot/2024.10.15 Spring Framework.md",
+    "Web Development HTML, CSS, JS, JSP/2024.09.30 OpenAPI, JSON to POJO, Crawling.md",
+    "Web Development HTML, CSS, JS, JSP/2024.09.24 JSON으로 CRUD 구현(create, update), AJAX, Fetch, CORSfilter.md",
+    "Web Development HTML, CSS, JS, JSP/2024.09.03 HTML, CSS, JavaScript.md",
+    "Web Development HTML, CSS, JS, JSP/open.url",
+    "Web Development HTML, CSS, JS, JSP/2024.09.11 jsp include, jsp forward, http의 stateless, cookie, session.md",
+    "Web Development HTML, CSS, JS, JSP",
+    "Web Development HTML, CSS, JS, JSP/2024.09.10 Dynamic Web Project, Scriptlet, .jsp파일.md",
+    "Web Development HTML, CSS, JS",
+    "Web Development",
+    "Web Development HTML, CSS, JS, JSP/2024.09.27 API, GPT, 비동기 통신 JavaScript(Fetch).md",
+    "Web Development HTML, CSS, JS, JSP/2024.09.26 Mybatis로 interface mapper 구현, EncodingFilter, Fetch로 Insert구현, file download, upload link, tomcat exception.md",
+    "Web Development HTML, CSS, JS, JSP/2024.09.25 Java Faker, Context Root, html 에 외부 파일 적용, API Servlet.md",
+    "Web Development HTML, CSS, JS, JSP/2024.09.23 Jackson, JSON으로 CRUD 구현.md",
+    "Web Development HTML, CSS, JS, JSP/2024.09.20 servlet활용해서 CRUD 구현, Filter.md",
+    "Web Development HTML, CSS, JS, JSP/2024.09.19 Maven Project, Logger, Mybatis, PRG패턴.md",
+    "Web Development HTML, CSS, JS, JSP/2024.09.15 Postman.md",
+    "Web Development HTML, CSS, JS, JSP/2024.09.14 SendRedirect, Query parameter.md",
+    "Web Development HTML, CSS, JS, JSP/2024.09.13 Servlet, InitParameter, BasicDataSource.md",
+    "Web Development HTML, CSS, JS, JSP/2024.09.12 EL, JSTL, MVC, Servlet.md",
+    "Web Development HTML, CSS, JS, JSP/2024.09.09 DOM, forEach, template태그, Date, Timer, Storage, Dialog.md",
+    "Web Development HTML, CSS, JS, JSP/2024.09.06 JavaScript의 Object, Array, Destructuring.md",
+    "Web Development HTML, CSS, JS, JSP/2024.09.05 HTTP Request, Java Script의 특징, Callback함수, 자바스크립트function.md",
+    "Web Development HTML, CSS, JS, JSP/2024.09.04 Semantic Tag, Form Tag, Input Tag.md",
+    "SQL/2024.08.07 MySQL.md",
+    "SQL/2024.08.21 Regular Expression.md",
+    "SQL",
+    "SQL/2024.08.19 excuteBatch(), PreparedStatement, StringJoiner.md",
+    "SQL/2024.08.20 base64, 다른 사람의 db 접속하기.md",
+    "GUI Java Swing",
+    "GUI",
+    "Java"
+  ]
+}
