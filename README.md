@@ -7,9 +7,15 @@ html 5 css 3 맞아요
 큰 제목은 여기에 적고 세세한 링크는 파트별로 
 
 [ 1. Java ](https://github.com/LeeKangHo1/My-Java-Study/tree/main/1.%20Java)
+
 [ 2. GUI ](https://github.com/LeeKangHo1/My-Java-Study/tree/main/2.%20GUI%20Java%20Swing)
+
 [ 3. Sql ](https://github.com/LeeKangHo1/My-Java-Study/tree/main/3.%20SQL)
+
 [ 4. Web ](https://github.com/LeeKangHo1/My-Java-Study/tree/main/4.%20Web%20Development%20HTML%2C%20CSS%2C%20JS%2C%20JSP)
+
 [ 5.스프링 ](https://github.com/LeeKangHo1/My-Java-study/tree/main/5.%20Spring%20Framework%2C%20Spring%20Boot)
+
 [ 6. GitHub ](https://github.com/LeeKangHo1/My-Java-Study/tree/main/6.%20GitHub)
+
 [ 7. Team Project ](https://github.com/LeeKangHo1/My-Java-Study/tree/main/7.%20Team%20Project)
