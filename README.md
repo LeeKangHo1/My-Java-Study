@@ -14,7 +14,7 @@ html 5 css 3 맞아요
 
 [ 4. Web ](https://github.com/LeeKangHo1/My-Java-Study/tree/main/4.%20Web%20Development%20HTML%2C%20CSS%2C%20JS%2C%20JSP)
 
-[ 5.스프링 ](https://github.com/LeeKangHo1/My-Java-study/tree/main/5.%20Spring%20Framework%2C%20Spring%20Boot)
+[ 5. 스프링 ](https://github.com/LeeKangHo1/My-Java-study/tree/main/5.%20Spring%20Framework%2C%20Spring%20Boot)
 
 [ 6. GitHub ](https://github.com/LeeKangHo1/My-Java-Study/tree/main/6.%20GitHub)
 
