@@ -1,0 +1,10 @@
+## 3. SQL
+- [MySQL](https://github.com/LeeKangHo1/My-Java-Study/blob/main/3.%20SQL/2024.08.07%20MySQL.md)
+- [SQL Primary Key, sub-query, 제약 조건, DML, 집계함수](https://github.com/LeeKangHo1/My-Java-Study/blob/main/3.%20SQL/2024.08.08%20SQL%20Primary%20Key%2C%20sub-query%2C%20%EC%A0%9C%EC%95%BD%20%EC%A1%B0%EA%B1%B4%2C%20DML%2C%20%EC%A7%91%EA%B3%84%ED%95%A8%EC%88%98.md)
+- [정규화, 외래키, ERD, 유니크, Join](https://github.com/LeeKangHo1/My-Java-Study/blob/main/3.%20SQL/2024.08.09%20%EC%A0%95%EA%B7%9C%ED%99%94%2C%20%EC%99%B8%EB%9E%98%ED%82%A4%2C%20ERD%2C%20%EC%9C%A0%EB%8B%88%ED%81%AC%2C%20Join.md)
+- [View, Union, Group, DateTime, TimeStamp, 형변환](https://github.com/LeeKangHo1/My-Java-Study/blob/main/3.%20SQL/2024.08.12%20View%2C%20Union%2C%20Group%2C%20DateTime%2C%20TimeStamp%2C%20%ED%98%95%EB%B3%80%ED%99%98.md)
+- [논리 삭제, transaction 제어, 세션 변수, case when, sql function, stored procedure, trigger](https://github.com/LeeKangHo1/My-Java-Study/blob/main/3.%20SQL/2024.08.13%20%EB%85%BC%EB%A6%AC%20%EC%82%AD%EC%A0%9C%2C%20transaction%20%EC%A0%9C%EC%96%B4%2C%20%EC%84%B8%EC%85%98%20%EB%B3%80%EC%88%98%2C%20case%20when%2C%20sql%20function%2C%20stored%20procedure%2C%20trigger.md)
+- [JDBC, DBUtil](https://github.com/LeeKangHo1/My-Java-Study/blob/main/3.%20SQL/2024.08.14%20JDBC%2C%20DBUtil.md)
+- [excuteBatch(), PreparedStatement, StringJoiner](https://github.com/LeeKangHo1/My-Java-Study/blob/main/3.%20SQL/2024.08.19%20excuteBatch()%2C%20PreparedStatement%2C%20StringJoiner.md)
+- [base64, 다른 사람의 db 접속하기](https://github.com/LeeKangHo1/My-Java-Study/blob/main/3.%20SQL/2024.08.20%20base64%2C%20%EB%8B%A4%EB%A5%B8%20%EC%82%AC%EB%9E%8C%EC%9D%98%20db%20%EC%A0%91%EC%86%8D%ED%95%98%EA%B8%B0.md)
+- [db 연결을 이클립스에서 GUI로 구현, Regular Expression](https://github.com/LeeKangHo1/My-Java-Study/blob/main/3.%20SQL/2024.08.21%20db%20%EC%97%B0%EA%B2%B0%EC%9D%84%20%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4%EC%97%90%EC%84%9C%20GUI%EB%A1%9C%20%EA%B5%AC%ED%98%84,%20Regular%20Expression.md)
