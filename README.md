@@ -7,7 +7,7 @@
 
   ### 2. [ GUI(Java Swing) ](https://github.com/LeeKangHo1/My-Java-Study/tree/main/2.%20GUI%20Java%20Swing)
 
-  ### 3. [ Sql(MySql) ](https://github.com/LeeKangHo1/My-Java-Study/tree/main/3.%20SQL)
+  ### 3. [ SQL(MySQL) ](https://github.com/LeeKangHo1/My-Java-Study/tree/main/3.%20SQL)
 
   ### 4. [ Web(HTML, CSS, Javascript, JSP) ](https://github.com/LeeKangHo1/My-Java-Study/tree/main/4.%20Web%20Development%20HTML%2C%20CSS%2C%20JS%2C%20JSP)
 
