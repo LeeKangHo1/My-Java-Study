@@ -19,6 +19,5 @@
 - [API, GPT, 비동기 통신 JavaScript(Fetch)](https://github.com/LeeKangHo1/My-Java-Study/blob/main/4.%20Web%20Development%20HTML%2C%20CSS%2C%20JS%2C%20JSP/2024.09.27%20API%2C%20GPT%2C%20%EB%B9%84%EB%8F%99%EA%B8%B0%20%ED%86%B5%EC%8B%A0%20JavaScript(Fetch).md)
 - [OpenAPI, JSON to POJO, Crawling](https://github.com/LeeKangHo1/My-Java-Study/blob/main/4.%20Web%20Development%20HTML%2C%20CSS%2C%20JS%2C%20JSP/2024.09.30%20OpenAPI%2C%20JSON%20to%20POJO%2C%20Crawling.md)
 - [Dynamic Web Project를 Git에 공유](https://github.com/LeeKangHo1/My-Java-Study/blob/main/4.%20Web%20Development%20HTML%2C%20CSS%2C%20JS%2C%20JSP/2024.10.01%20Dynamic%20Web%20Project%EB%A5%BC%20Git%EC%97%90%20%EA%B3%B5%EC%9C%A0.md)
-- [Frontend, Backend, HTML, CSS, JavaScript, JavaServer Pages, AJAX, API](https://github.com/LeeKangHo1/My-Java-Study/blob/main/4.%20Web%20Development%20HTML%2C%20CSS%2C%20JS%2C%20JSP/2024.10.30%20Frontend%2C%20Backend%2C%20HTML%2C%20CSS%2C%20JavaScript%2C%20JavaServer%20Pages%2C%20AJAX%2C%20API.md)
 
 ---
