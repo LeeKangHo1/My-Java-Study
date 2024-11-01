@@ -1,3 +1,3 @@
-- [subking](https://github.com/LeeKangHo1/SUBKINGproject)
-- [stocksimulation](https://github.com/LeeKangHo1/Magnificent_Architects)
-- [lotto](https://github.com/LeeKangHo1/lottoTeam3)
+- [SubKing Project](https://github.com/LeeKangHo1/SUBKINGproject)
+- [StockSimulation Project](https://github.com/LeeKangHo1/Magnificent_Architects)
+- [LottoSimulation Project](https://github.com/LeeKangHo1/lottoTeam3)
