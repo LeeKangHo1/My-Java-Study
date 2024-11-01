@@ -17,4 +17,4 @@
 
   ### 7. [ Team Project ](https://github.com/LeeKangHo1/My-Java-Study/tree/main/7.%20Team%20Project)
 
-  ### 8. [ Keyword Summary 링크 작성 필요]()
+  ### 8. [ Keyword Summary ](https://github.com/LeeKangHo1/My-Java-Study/tree/main/8.%20Keyword%20Summary)
