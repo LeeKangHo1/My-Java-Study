@@ -1,4 +1,4 @@
-## GUI Java Swing
+## GUI (Java Swing)
 - [GUI (Graphical user interface), RGB](https://github.com/LeeKangHo1/My-Java-Study/blob/main/2.%20GUI%20Java%20Swing/2024.07.07%20GUI%20(Graphical%20user%20interface)%2C%20RGB.md)
 - [GUI Layout, WindowBuilder를 활용한 GUI 편집, 이미지 아이콘(Image Icon)](https://github.com/LeeKangHo1/My-Java-Study/blob/main/2.%20GUI%20Java%20Swing/2024.07.08%20GUI%20Layout%2C%20WindowBuilder%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20GUI%20%ED%8E%B8%EC%A7%91%2C%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%95%84%EC%9D%B4%EC%BD%98(Image%20Icon).md)
 - [GUI Border, JCheckBox, JRadioButton, MouseEvent, KeyEvent(키보드 이벤트)](https://github.com/LeeKangHo1/My-Java-Study/blob/main/2.%20GUI%20Java%20Swing/2024.07.09%20GUI%20Border%2C%20JCheckBox%2C%20JRadioButton%2C%20MouseEvent%2C%20KeyEvent(%ED%82%A4%EB%B3%B4%EB%93%9C%20%EC%9D%B4%EB%B2%A4%ED%8A%B8).md)
