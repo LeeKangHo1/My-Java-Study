@@ -1,3 +1,4 @@
-- [SubKing Project](https://github.com/LeeKangHo1/SUBKINGproject)
-- [StockSimulation Project](https://github.com/LeeKangHo1/Magnificent_Architects)
-- [LottoSimulation Project](https://github.com/LeeKangHo1/lottoTeam3)
+- #### 프로젝트 깃허브 링크
+	- [SubKing Project](https://github.com/LeeKangHo1/SUBKINGproject)
+	- [StockSimulation Project](https://github.com/LeeKangHo1/Magnificent_Architects)
+	- [LottoSimulation Project](https://github.com/LeeKangHo1/lottoTeam3)
