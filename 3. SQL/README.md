@@ -1,4 +1,4 @@
-## 3. SQL
+## SQL
 - [MySQL](https://github.com/LeeKangHo1/My-Java-Study/blob/main/3.%20SQL/2024.08.07%20MySQL.md)
 - [SQL Primary Key, sub-query, 제약 조건, DML, 집계함수](https://github.com/LeeKangHo1/My-Java-Study/blob/main/3.%20SQL/2024.08.08%20SQL%20Primary%20Key%2C%20sub-query%2C%20%EC%A0%9C%EC%95%BD%20%EC%A1%B0%EA%B1%B4%2C%20DML%2C%20%EC%A7%91%EA%B3%84%ED%95%A8%EC%88%98.md)
 - [정규화, 외래키, ERD, 유니크, Join](https://github.com/LeeKangHo1/My-Java-Study/blob/main/3.%20SQL/2024.08.09%20%EC%A0%95%EA%B7%9C%ED%99%94%2C%20%EC%99%B8%EB%9E%98%ED%82%A4%2C%20ERD%2C%20%EC%9C%A0%EB%8B%88%ED%81%AC%2C%20Join.md)
