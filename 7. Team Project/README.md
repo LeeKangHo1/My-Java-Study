@@ -1,4 +1,5 @@
-- #### 프로젝트 깃허브 링크
+- #### 프로젝트 개인 일지를 모아둔 폴더입니다.
+- #### 프로젝트 관련 내용은 아래 링크를 참고하세요.
 	- [SubKing Project](https://github.com/LeeKangHo1/SUBKINGproject)
 	- [StockSimulation Project](https://github.com/LeeKangHo1/Magnificent_Architects)
 	- [LottoSimulation Project](https://github.com/LeeKangHo1/lottoTeam3)
