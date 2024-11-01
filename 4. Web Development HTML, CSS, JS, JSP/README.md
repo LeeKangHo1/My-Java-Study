@@ -1,4 +1,4 @@
-## 4. Web
+## Web (HTML, CSS, JavaScript, JSP)
 - [HTML, CSS, JavaScript](https://github.com/LeeKangHo1/My-Java-Study/blob/main/4.%20Web%20Development%20HTML%2C%20CSS%2C%20JS%2C%20JSP/2024.09.03%20HTML%2C%20CSS%2C%20JavaScript.md)
 - [Semantic Tag, Form Tag, Input Tag](https://github.com/LeeKangHo1/My-Java-Study/blob/main/4.%20Web%20Development%20HTML%2C%20CSS%2C%20JS%2C%20JSP/2024.09.04%20Semantic%20Tag%2C%20Form%20Tag%2C%20Input%20Tag.md)
 - [HTTP Request, Java Script의 특징, Callback함수, 자바스크립트function](https://github.com/LeeKangHo1/My-Java-Study/blob/main/4.%20Web%20Development%20HTML%2C%20CSS%2C%20JS%2C%20JSP/2024.09.05%20HTTP%20Request%2C%20Java%20Script%EC%9D%98%20%ED%8A%B9%EC%A7%95%2C%20Callback%ED%95%A8%EC%88%98%2C%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8function.md)
