@@ -3,6 +3,8 @@
 ---
 ## 수업 내용 정리 공간
 
+  #### ※ 아래 링크를 클릭하면 해당 주제의 폴더로 이동합니다.
+
   ### 1. [ Java ](https://github.com/LeeKangHo1/My-Java-Study/tree/main/1.%20Java)
 
   ### 2. [ GUI (Java Swing) ](https://github.com/LeeKangHo1/My-Java-Study/tree/main/2.%20GUI%20Java%20Swing)
